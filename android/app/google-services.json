@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "336199999486",
+    "firebase_url": "https://fir-61fc0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-61fc0",
+    "storage_bucket": "fir-61fc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336199999486:android:8ec426037ffe8d6f3daaaf",
+        "android_client_info": {
+          "package_name": "com.example.climateaction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336199999486-rv1tf3vkfcof8hc5aj5gilfe0brl9i1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.climateaction",
+            "certificate_hash": "10111bd96f6ac99e14104e948dba15ae152d4a51"
+          }
+        },
+        {
+          "client_id": "336199999486-e08c2tmphd17o4fvuceo39p05lq08m74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXi9KI3uZcq6tztUcdpj3w-JbzSEzPT94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336199999486-9umtj5ieiad2aq6jb6hfe3h5seivk2up.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "336199999486-oo7fv0nbrg5ipu6qc23tfno8v53op3g2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.climateaction"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
